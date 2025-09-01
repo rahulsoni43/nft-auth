@@ -1,0 +1,2 @@
+# nft-auth
+thebootstrap.ai
